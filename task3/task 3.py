@@ -1,3 +1,12 @@
+ Mission:
+You are creating a Smart Arithmetic Calculator that can perform basic operations: Addition (+), Subtraction (-), Multiplication (*), and Division (/). 
+
+ Instructions:
+️⃣ Ask the user to choose an operation:
+
+
+
+
 print("lets explore calculator")
 
 num1 = int(input("enter your number:"))
